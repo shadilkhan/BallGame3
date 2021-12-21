@@ -13,8 +13,8 @@
 	text-align: center;
 }
 
-.textbox_level,
-.textbox_score {
+.textbox-level,
+.textbox-score {
 	display: inline-block;
 	width: 50px;
 	background-color: rgb(255, 255, 255);
@@ -27,8 +27,8 @@
 
 .score,
 .level,
-.textbox_level,
-.textbox_score {
+.textbox-level,
+.textbox-score {
 	font-size: 14px;
 }
 
@@ -39,15 +39,15 @@
 	border: 3px solid rgb(0, 0, 0);
 }
 
-.left_arrow {
+.left-arrow {
 	padding: 2px 14px;
 }
 
-.right_arrow {
+.right-arrow {
 	padding: 2px 15px;
 }
 
-.down_arrow {
+.down-arrow {
 	padding: 2px 20px;
 }
 
